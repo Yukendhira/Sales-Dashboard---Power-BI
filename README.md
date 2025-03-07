@@ -1,1 +1,3 @@
-# Sales-Dashboard---Power-BI
+# Sales-Dashboard---Power-B
+
+This repository contains a Power BI Sales Dashboard designed to visualize and analyze sales performance across different dimensions. The dashboard helps in identifying key trends, revenue insights, and sales growth over time.  🔍 Features:  Revenue Analysis: Track total sales, profits, and revenue trends. Regional Sales Performance: Compare sales across different locations. Product Insights: Identify best-selling products and categories. Time-Based Trends: Analyze sales by month, quarter, and year. Key Metrics: Includes Total Sales, Profit Margins, Average Order Value, etc.
